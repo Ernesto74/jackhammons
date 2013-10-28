@@ -1,6 +1,25 @@
 
 
+.circularly {
+	width: 500px;
+	height: 500px;
+	border-radius: 500px;
+	-webkit-border-radius: 500px;
 
+	padding: 0em 0em 0em 0em;
+	margin-top: 10px;
+	margin-bottom:10px;
+	margin-right:5px;
+	margin-left:5px;
+
+	-moz-border-radius: 150px;
+
+	}
+
+	.left{
+	float:left;
+	
+	}
 
 
 
