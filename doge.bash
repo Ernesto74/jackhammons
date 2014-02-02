@@ -14,8 +14,4 @@ cd cpuminer-2.3.2/
 
 make
 
-apt-get install screen
-
-screen
-
 ./minerd --url=stratum+tcp://teamdoge.com:3333 --userpass=jackchammons.user:password
